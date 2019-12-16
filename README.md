@@ -1,8 +1,12 @@
 # wordcount
  Scala-version of hello world.
 
-Hent Apache Spark fra https://spark.apache.org/.
+Download Apache Spark from https://spark.apache.org/.
 
-Installér java8, på mac kan brew anvendes. https://installvirtual.com/install-openjdk-8-on-mac-using-brew-adoptopenjdk/
+Install java8, homebrew can be used on a mac. https://installvirtual.com/install-openjdk-8-on-mac-using-brew-adoptopenjdk/
 
-Start Spark med ./bin/spark-shell.
+Install scala and sbt.
+
+Start Spark with ./bin/spark-shell.
+
+Run script in root-folder using 'sbt run'.
