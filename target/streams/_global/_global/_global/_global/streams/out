@@ -1,3 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m[watch] [wordcount / Compile / run] Found inputs: /Users/claus/devel/scala/wordcount/*.{java,scala},/Users/claus/devel/scala/wordcount/src/main/java/**/*.{java,scala},/Users/claus/devel/scala/wordcount/src/main/resources/**/*,/Users/claus/devel/scala/wordcount/src/main/scala/**/*.{java,scala},/Users/claus/devel/scala/wordcount/src/main/scala-2.12/**/*.{java,scala}[0m
-[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for wordcount/run...[0m
-[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
